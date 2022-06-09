@@ -42,7 +42,7 @@
 
 
 Таблица вводимой для проверки даты и ожидаемый результат выполнения функции доступен по [ссылке](https://docs.google.com/spreadsheets/d/1uoiYuLhtsyPnv3hjAMYQz6fOZEJGmqGz_VjMfdBVxJE/edit?usp=sharing).
-</br>
+
 Шаги для выполнения проверки:
 - ввести значение даты из таблицы в поле “Date”;
 - нажать “Get Result”;
