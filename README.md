@@ -39,7 +39,8 @@
 - выбрать вкладку “Загрузить”;
 - выбрать загруженный файл “Welltory_QA_test.ipnb”;
 - скачать файл “Проверка функции анализа сна”  по [ссылке](https://docs.google.com/spreadsheets/d/1OCqHS_3V8NrL0InmuJwI5iZNZuefDYW5KyGE63CcZuc/edit?usp=sharing).
-</br>
+
+
 Таблица вводимой для проверки даты и ожидаемый результат выполнения функции доступен по [ссылке](https://docs.google.com/spreadsheets/d/1uoiYuLhtsyPnv3hjAMYQz6fOZEJGmqGz_VjMfdBVxJE/edit?usp=sharing).
 </br>
 Шаги для выполнения проверки:
