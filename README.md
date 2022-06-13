@@ -35,7 +35,7 @@
 	
 Предусловием для прохождения сценариев являются следующие шаги:
 - загрузить файл по [ссылке](https://www.dropbox.com/s/mmcqo10k6whhtef/Welltory_QA_test.ipynb?dl=0);
-- открыть [ссылку](https://colab.research.google.com/);
+- открыть [Colaboratory](https://colab.research.google.com/);
 - выбрать вкладку “Загрузить”;
 - выбрать загруженный файл “Welltory_QA_test.ipnb”;
 - скачать файл “Проверка функции анализа сна”  по [ссылке](https://docs.google.com/spreadsheets/d/1OCqHS_3V8NrL0InmuJwI5iZNZuefDYW5KyGE63CcZuc/edit?usp=sharing).
